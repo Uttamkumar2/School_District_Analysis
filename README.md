@@ -19,3 +19,23 @@ After
 4. Overall passing percentage also have change from 65.2 to 64.9
 
 In short if we remove 9th grade score from THS, all metrics in terms of school district going down. This also indicates THS 9th grade scores where higher than the overall average. 
+
+## School Summary 
+Even after removing 9th grader score from Thomas High Schools, its didn’t much impact in terms of average and percentage value of number. It manages to maintain their position 
+
+Before 
+
+![School_summary_before](https://user-images.githubusercontent.com/91766890/140682118-1b3c62e7-837b-43a0-8e89-5cacb5e02131.PNG)
+
+After 
+![School_summary_after](https://user-images.githubusercontent.com/91766890/140682131-8bcd575a-24f0-4357-ba1e-d075c9da28e2.PNG)
+
+Similarly, in-terms of comparing school positions with other schools, It remain in top 2nd other schools, this demonstrates that replace 9th grade score impact school because other class students are still high performing students. Below picture depicting clearly that even with some change in decimal number , its in the top 2nd position.
+
+Before
+![Top_5_schools_Before](https://user-images.githubusercontent.com/91766890/140682141-8e3f4df1-f410-4f0d-8de2-d71c2199e600.PNG)
+
+After
+
+![Top_5_schools_After](https://user-images.githubusercontent.com/91766890/140682148-0459f8bc-706d-4800-a871-3c2ca3fdef56.PNG)
+
