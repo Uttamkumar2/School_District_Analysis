@@ -39,3 +39,20 @@ After
 
 ![Top_5_schools_After](https://user-images.githubusercontent.com/91766890/140682148-0459f8bc-706d-4800-a871-3c2ca3fdef56.PNG)
 
+## Math and reading scores by Grade 
+It’s just impacted to 9th grade in terms Score my math and reading as it was replaced with NaNs for all 9th grader students in THS. As expected, other class from 10th to 12th it remains same without any impact.
+
+Before
+
+![math_score_grade_before](https://user-images.githubusercontent.com/91766890/140685061-07af3072-51f2-4792-89ea-9dc5898e1f57.png)
+
+After 
+
+![math_score_grade_after](https://user-images.githubusercontent.com/91766890/140685064-d435ff68-6fd8-4ec0-b553-f8d180213c7f.png)
+
+## Scores by school spending, Size and Type
+There was no change observed in terms school spending size and type, and this was expected because it we see average and percentage of math and reading didn’t have significant impact.
+
+## Summary
+Finally, it’s been clear that scores from the 9th grade class at THS impacted the average scores by subjects, but it maintains the its position to be remain 2nd from top 5 school.
+
